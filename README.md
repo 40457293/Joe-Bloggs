@@ -9,7 +9,7 @@ Joe Bloggs requires **MongoDB** to be installed. This can be downloaded from [he
 
 In addition, several **Node.JS modules** must be installed: 
 
-1. First, [download and install Node.JS](https://nodejs.org/en/download/) . 
+1. First, [download and install Node.JS](https://nodejs.org/en/download/). 
 2. Extract `40457293.zip` into a directory of your choice (in this example, `C:/Users/40457293/CourseworkBlog`).
 3. Browse to this directory using your operating system's command prompt (using the `cd` command) (ex: `cd C:/Users/40457293/CourseworkBlog`).
 4. Run `npm install` to install the project's dependencies. 
