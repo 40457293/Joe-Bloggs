@@ -11,7 +11,7 @@ In addition, several **Node.JS modules** must be installed:
 
 1. First, [download and install Node.JS](https://nodejs.org/en/download/). 
 2. Extract `40457293.zip` into a directory of your choice (in this example, `C:/Users/40457293/CourseworkBlog`).
-3. Browse to this directory using your operating system's command prompt (using the `cd` command) (ex: `cd C:/Users/40457293/CourseworkBlog`). Note that you should be in the same directory as `app.js`.
+3. Browse to this directory using your operating system's command prompt (using the `cd` command) (ex: `cd C:/Users/40457293/CourseworkBlog`). Note that you should now be in the same directory as `app.js`.
 4. Run `npm install` to install the project's dependencies. 
 > **Note:** This guide assumes that you are using a modern browser and operating system with support for the features included in this project; it may not function as intended on archaic systems.
 
