@@ -27,4 +27,6 @@ From the directory containing `app.js`, `write.js`, and `package.json`, run `npm
 
 - An error indicating that port 3000 is already in use means that the app is either already running, or another application is using the port. A tutorial such as [this one]([https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows)) can be used to kill this process.
 
+- If there is nothing in the console after running `npm start app.js`, and the site does not load, it is likely that you did not install MongoDB.
+
 - Other errors may be caused by running commands in the wrong directory; `npm start app.js` and `npm install` should be run from the same directory as `app.js` and `package.json`.
